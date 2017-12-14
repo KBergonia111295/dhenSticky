@@ -1,0 +1,33 @@
+button{
+	color:blue;
+	font-size: 50px;
+	background-color: red;
+	border:none;
+}
+
+input{
+	font-size: 50px;
+}
+
+.text{
+	font-size: 50px;
+	font-family: 'arial';
+}
+
+ul li{
+	font-size: 30px;
+	color:red;
+}
+
+.imCustomClass{
+	text-decoration: underline;
+	color:yellow;
+}
+
+#audio{
+	display: none;
+}
+#textarea{
+	width:100%;
+	height:500px;
+}
